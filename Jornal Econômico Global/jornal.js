@@ -12,3 +12,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
+
+
+
+function noticia() {
+  window.location.href="Principais.html"
+}
+function guerra() {
+  window.location.href="Guerra.html"
+}
