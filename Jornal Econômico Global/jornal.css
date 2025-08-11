@@ -44,7 +44,7 @@ body {
 .botoes-container button {
   background-color: transparent;
   color: #000;
-  border: 1px solid #444;
+  border: 1px solid #283e7a;
   border-radius: 12px;
   padding: 10px 22px;
   margin: 0 10px;
@@ -57,7 +57,7 @@ body {
 }
 
 .botoes-container button:hover {
-  background-color: #bda1a1;
+  background-color: #283e7a;
   color: #ddd;
 }
 
